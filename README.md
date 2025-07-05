@@ -1,5 +1,5 @@
- Super-store-sales-dashboard
 🛒 Aarush's Superstore Sales Dashboard
+
 This Power BI dashboard provides a comprehensive analysis of sales performance for a fictional Superstore across various dimensions such as region, product category, segment, payment modes, and shipping classes. It helps stakeholders make data-driven decisions by offering clear KPIs, time trends, and regional insights.
 
 🧰 Tech Stack
@@ -20,61 +20,62 @@ Source: Superstore sample dataset (fictional) commonly used in data visualizatio
 
 The dataset contains information on:
 
--Orders, categories, sub-categories
--Sales, profit, quantity
--Shipping modes, customer segments
--Regions, states, and time (monthly/yearly)
+•	Orders, categories, sub-categories
+•	Sales, profit, quantity
+•	Shipping modes, customer segments
+•	Regions, states, and time (monthly/yearly)
+
 
 ✨ Features / Highlights
-• Business Problem
+1. Business Problem
 Retail businesses struggle to track real-time performance across various operational dimensions like region, customer type, product categories, and payment methods. Raw data often fails to provide clear insights into trends, bottlenecks, and opportunities.
 
 Key questions addressed:
 
-Which regions or segments drive the most revenue?
-What’s the monthly trend in sales and profit?
-Which product categories and sub-categories perform best?
-How are shipping modes impacting fulfillment?
+•	Which regions or segments drive the most revenue?
+•	What’s the monthly trend in sales and profit?
+•	Which product categories and sub-categories perform best?
+•	How are shipping modes impacting fulfillment?
 
-• Goal of the Dashboard
+
+2. Goal of the Dashboard
 To build a centralized, visual interface that:
 
--Offers a snapshot of KPIs (sales, profit, quantity)
--Breaks down sales by time, category, and customer behavior
--Helps identify regional and segment-specific patterns
--Improves visibility into operational areas for optimization
+•	Offers a snapshot of KPIs (sales, profit, quantity)
+•	Breaks down sales by time, category, and customer behavior
+•	Helps identify regional and segment-specific patterns
+•	Improves visibility into operational areas for optimization
 
-• Walkthrough of Key Visuals
+
+3. Walkthrough of Key Visuals
 Top KPIs
 
--Total Sales: 1.57M
--Total Profit: 175.26K
--Quantity Sold: 22.03K
--Sales per Transaction: 9.57
--Region Filter Panel
--Interactive buttons to filter by Central, East, South, and West regions
--Sales & Profit by Month
--Line charts comparing 2019 vs. 2020 trends
--Sales by Segment & Payment Mode
--Donut charts showing distribution by Corporate, Consumer, and Home Office
--Payment mode breakdown: Online, COD, Cards
--Sales by Category/Sub-Category
--Bar charts for Office Supplies, Furniture, and Technology
--Top sub-categories: Phones, Chairs, Binders
--Sales and Profit by State
--Map visual with geospatial bubbles sized by revenue and profit
--Sales by Shipping Mode
--Horizontal bars for Standard, Second, First, and Same Day classes
+•	KPIs: Sales 1.57 M | Profit 175 K | Qty 22 K | Sales/Tx 9.57
 
-• Business Impact & Insights
-Regional Focus: West leads with 33% of total sales, followed by East and Central
+•	Filters: Region slicer (Central / East / South / West)
 
-Product Strategy: Phones and Office Supplies are high-performing sub-categories
+•	Time Trend: 2019 vs 2020 sales‑profit line charts
 
-Time-Based Planning: December sees a noticeable sales spike across years
+•	Segment & Payment: Donut split by segment (Corporate / Consumer / Home Office) and payment mode (Online / COD / Cards)
 
-Payment Optimization: COD still dominates, but Online and Cards are growing
+•	Category Performance: Bar charts for Office Supplies, Furniture, Technology; top sub‑categories = Phones, Chairs, Binders
 
-Logistics: Standard Class shipping is most used, while Same Day is underused
+•	Geo Insight: State‑level map bubbles for sales & profit
+
+•	Shipping Analysis: Bar chart for Standard, Second, First, Same‑Day modes
+
+
+4. Business Impact & Insights
+
+•	Regional Focus: West leads with 33% of total sales, followed by East and Central
+
+•	Product Strategy: Phones and Office Supplies are high-performing sub-categories
+
+•	Time-Based Planning: December sees a noticeable sales spike across years
+
+•	Payment Optimization: COD still dominates, but Online and Cards are growing
+
+•	Logistics: Standard Class shipping is most used, while Same Day is underused
+
 
 🖼️ Screenshot 
